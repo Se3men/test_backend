@@ -1,0 +1,10 @@
+id,firstName,lastName,email,password,sex,photo,registrationDate
+2,test1,,test@test.test1,$2b$05$cdbH62IB9qY5fQhQGYoMRuOT4SbSMoZB7cTsbRpb1d3FFOe0xClzK,,,1656377627735
+4,test3,,test@test.test3,$2b$05$734g3u5MWXCElBkxXQV4Wu1Byeb8foPFxXIi9zZ5s18IjsVOKSyS.,,,1656377640816
+5,test4,,test@test.test4,$2b$05$kzl44HMurwME/Qm9yrizu.DVI1qJfpbtNJLyC0dFhTNnnc7AsKi7W,,,1656401930551
+6,test5,,test@test.test5,$2b$05$zIk9X7iUiOKdo1KRisdJFO/pZFCOb/HLz5bGZQGiwYKx4Ov/8Vj2u,,,1656401940919
+7,test6,,test@test.test6,$2b$05$ATvBOM2zyRm/vfZZf6MQb.u7y1zCvEeOpJ027YL5cl7bnnrqSDZEG,,,1656401946892
+8,test7,,test@test.test7,$2b$05$vMruN/nC/eceSGkdHAnime9.eZQmWF4LnWAawGYz.bwWzSszl4ObK,,,1656401953279
+9,test8,,test@test.test8,$2b$05$c.L9qXm6EjOBFhsSAP1Yx.nww488IBH.dAMxKDvhKn63gjNrDryN2,,,1656401962946
+10,test9,,test@test.test9,$2b$05$WRKFtoMhUhDlci3.0ivK/ujQTFDGBLLPz8i5dpN8GlScMQHoH2xT6,,,1656401971253
+3,John,Ivanov,john@ivanov.com,$2b$05$zo9qFk84UKb3y.xNubzwpuPBlWyhnw1nyP8y57mGhgFLv/tGnA8Vy,man,9a3b9feb-b076-4710-9bf6-1184d7b658bb.png,1656377634342
